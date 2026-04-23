@@ -22,3 +22,29 @@
 5. Organize all required files in the repository folder
 6. Push all the updated into the repository
 7. Test and open the files in GitHub to make sure everyone can access them
+
+## Repository Plan
+
+### Goals
+- Demonstrate the GitHub skills I learned in class
+- Show version control practices
+- Keep the main branch updated with the final version
+- Keep detailed comments and updateds on any new commits
+
+### Needs
+- [X] A public repository
+- [X] Main branch
+- [X] At least one additional branch
+- [X] At least two issues
+- [X] Meaningful commits
+- [X] A pull request merged into main
+
+### Steps
+1. Create a development branch
+2. Open issues for repository updates
+3. Make changes on the development branch
+4. Use clear commit messages
+5. Link work to issues where possible
+6. Open a pull request with a title and description
+7. Merge the pull request into main
+8. Make sure main is fully updated
